@@ -23530,7 +23530,7 @@
         }
 
         .cart-remove-item button.remove-item:hover, .cart-remove-item button.remove-item:hover::before, .profile-wishlist .wish-list-wrapper .wishlist-panel .wishlist-item-wrapper .wishlist-action form>.btn.btn-danger.btn-xs:hover {
-                color: #c51e2a
+                color: #00ffdf
         }
 
         .cart-remove-item button.remove-item:focus {
@@ -27997,11 +27997,11 @@
         }
 
         .product-review-full .remove-my-review>a:hover, .product-review-full .remove-my-review>a:hover:before {
-                color: #c51e2a
+                color: #00ffdf
         }
 
         .review-content .remove-my-review>a:hover, .review-content .remove-my-review>a:hover:before {
-                color: #c51e2a
+                color: #00ffdf
         }
 
         .product-review-full .edit-my-review>a:hover:before {
@@ -29553,7 +29553,7 @@
                 background: 0 0;
                 border: none;
                 text-decoration: underline;
-                color: #c51e2a;
+                color: #00ffdf;
                 cursor: pointer
         }
 
@@ -45556,7 +45556,7 @@
 
         .delete-subhead a {
                 font-size: 13px;
-                color: #c51e2a
+                color: #00ffdf
         }
 
         .profile-details .delete-account-wrapp .profile-panels .panel-content {
@@ -45621,7 +45621,7 @@
         }
 
         .account-closure {
-                color: #c51e2a
+                color: #00ffdf
         }
 
         .account-delete-confim-wrap {
@@ -47944,7 +47944,7 @@
                 --border-color-primary: #404040;
                 --yellow: #00ffdf;
                 --green: #82c100;
-                --red: #c51e2a;
+                --red: #00ffdf;
                 --gray: gray;
                 --warning-yellow: #ffc107;
                 --checkout-bg: #f8f8f8;
