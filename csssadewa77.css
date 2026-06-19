@@ -18508,7 +18508,7 @@
 
         .product-bundle-badge.bestseller .left-part {
                 float: left;
-                background: #ffc107;
+                background: #00ffdf;
                 padding: 5px
         }
 
@@ -22151,7 +22151,7 @@
         }
 
         button.checkout-continue-big {
-                background-color: #82c100;
+                background-color: #00ffdf;
                 border: 1px solid #5e8a03;
                 border-bottom: 3px solid #628c0d;
                 margin: 10px;
@@ -47943,10 +47943,10 @@
                 --border-color: #303030;
                 --border-color-primary: #404040;
                 --yellow: #00ffdf;
-                --green: #82c100;
+                --green: #00ffdf;
                 --red: #00ffdf;
                 --gray: gray;
-                --warning-yellow: #ffc107;
+                --warning-yellow: #00ffdf;
                 --checkout-bg: #f8f8f8;
                 --anchor-link: #2996ff
         }
